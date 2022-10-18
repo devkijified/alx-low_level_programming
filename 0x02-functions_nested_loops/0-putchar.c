@@ -1,10 +1,8 @@
 #include "main.h"
-
 /**
  * main - would print out _putchar
  * Return: would return 0 if executed currently, otherwise 1
  */
-
 int main(void)
 {
 	_putchar('_');
